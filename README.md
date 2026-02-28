@@ -35,14 +35,7 @@ I'm **Faris Hussain**, a Data & AI Engineer based in Germany 🇩🇪
 
 🚀 I transform complex data challenges into scalable solutions. Since **2021**, I've been helping organizations across finance, retail, and tech industries unlock the value of their data through modern architectures and cloud-native platforms.
 
-Currently pursuing my **Master's in Artificial Intelligence** while working on production data systems that process millions of records daily. I've successfully:
-
-- 🏗️ Reduced data processing time by **70%** through optimized Data Vault 2.0 implementations
-- 📊 Built **15+ BI dashboards** serving 200+ business users across multiple departments  
-- 💰 Cut ETL operational costs by **40%** via intelligent automation and cloud optimization
-- 🔄 Orchestrated pipelines managing **50+ heterogeneous data sources**
-- 🤖 Developed **AI agents** for automated data quality monitoring, anomaly detection and etc
-- 🧠 Built **ML pipelines** from feature engineering to model deployment on production systems
+Currently pursuing my **Master's in Artificial Intelligence** while working on production data systems that process millions of records daily.
 
 💡 When I'm not engineering data pipelines, I share insights on **Medium** about modern data stack best practices and contribute to the data engineering community.
 
