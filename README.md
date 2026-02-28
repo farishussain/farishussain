@@ -23,7 +23,7 @@
     Data & AI Engineer | Data Vault Specialist | Building Scalable Data Platforms
   </h3>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="700"/>
 
 </div>
 
