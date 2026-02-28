@@ -148,11 +148,7 @@ Currently pursuing my **Master's in Artificial Intelligence** while working on p
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farishussain&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farishussain&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farishussain&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0e75b6&text_color=ffffff)
 
 </div>
 
