@@ -99,8 +99,10 @@ Currently pursuing my **Master's in Artificial Intelligence** while working on p
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>&nbsp;
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" title="MLflow" height="40"/>&nbsp;
-<img src="https://www.kubeflow.org/images/logo.svg" title="Kubeflow" width="40" height="40"/>
+<img src="https://www.kubeflow.org/images/logo.svg" title="Kubeflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" width="40" height="40"/>&nbsp;
+<img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" title="Gemini" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic/191919" title="Anthropic" width="40" height="40"/>
 
 </div>
 
