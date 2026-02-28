@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://x.com/f2aitchain">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+      <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
     <a href="https://instagram.com/waymorefar_is">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
