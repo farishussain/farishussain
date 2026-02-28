@@ -2,13 +2,16 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/farishussain">
-      <img src="https://img.shields.io/badge/LinkedIn-Faris%20Hussain-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@farishussain">
-      <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://x.com/f2aitchain">
-      <img src="https://img.shields.io/badge/X-@f2aitchain-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
+    <a href="https://instagram.com/waymorefar_is">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
 
