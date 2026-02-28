@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/farishussain">
-    <img src="https://img.shields.io/badge/LinkedIn-Faris%20Hussain-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
