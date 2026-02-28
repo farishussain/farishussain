@@ -108,37 +108,6 @@ Currently pursuing my **Master's in Artificial Intelligence** while working on p
 
 ---
 
-### 🎓 Education
-
-**M.Sc. Artificial Intelligence** | [Technische Hochschule Ingolstadt](https://www.thi.de/) | 2024 - 2026   
-**Pg Dip Big Data Analytics** | [Institute of Business Administration](https://www.iba.edu.pk/) | 2023 - 2024  
-**B.Sc. Computer Engineering** | [NED University of Engineering & Technology](https://www.neduet.edu.pk/) | 2016 - 2020
-
----
-
-### 🏆 Certifications
-
-<div align="center">
-
-![Azure](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Core Expertise
-
-- 🏗️ **Data Vault 2.0 Architecture** - Hub/Link/Satellite modeling for enterprise DWH
-- 📈 **Analytics Engineering** - dbt transformations, dimensional modeling & data quality
-- ⚙️ **DataOps & CI/CD** - Automated testing, deployment & monitoring pipelines
-- ☁️ **Cloud Data Platforms** - Snowflake, Databricks, AWS Redshift, Azure Synapse
-- 🔄 **ELT/ETL Orchestration** - Airflow, Fivetran, Matillion & custom Python pipelines
-- 🤖 **ML Data Infrastructure** - Feature stores, data versioning & model-ready datasets
-- 📊 **Business Intelligence** - Tableau, Power BI, ThoughtSpot dashboards & semantic layers
-
----
-
 ### 🔥 GitHub Stats
 
 <div align="center">
