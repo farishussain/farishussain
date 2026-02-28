@@ -31,29 +31,102 @@
 
 ### 👨‍💻 About Me
 
-I’m **Faris Hussain**, a Data & AI Engineer based in Germany 🇩🇪  
+I'm **Faris Hussain**, a Data & AI Engineer based in Germany 🇩🇪  
 
-- 🏗️ Designing **Modern Data Warehouses (Data Vault 2.0)**
-- ☁️ Building cloud-native pipelines on **Snowflake, AWS & Azure**
-- 🔄 Developing scalable **ELT/ETL architectures**
-- 🤖 Master’s student in **AI of Autonomous Systems**
-- 📊 Transforming raw data into BI-ready & ML-ready systems
-- 🚀 Passionate about high-performance data platforms & automation
+🚀 I transform complex data challenges into scalable solutions. Since **2021**, I've been helping organizations across finance, retail, and tech industries unlock the value of their data through modern architectures and cloud-native platforms.
+
+Currently pursuing my **Master's in Artificial Intelligence** while working on production data systems that process millions of records daily. I've successfully:
+
+- 🏗️ Reduced data processing time by **70%** through optimized Data Vault 2.0 implementations
+- 📊 Built **15+ BI dashboards** serving 200+ business users across multiple departments  
+- 💰 Cut ETL operational costs by **40%** via intelligent automation and cloud optimization
+- 🔄 Orchestrated pipelines managing **50+ heterogeneous data sources**
+- 🤖 Developed **AI agents** for automated data quality monitoring, anomaly detection and etc
+- 🧠 Built **ML pipelines** from feature engineering to model deployment on production systems
+
+💡 When I'm not engineering data pipelines, I share insights on **Medium** about modern data stack best practices and contribute to the data engineering community.
+
+📫 **Let's connect** - Always open to discussing data architecture, AI systems, or collaboration opportunities!
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Tech Stack
 
+#### Languages
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="Scala" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Shell" width="40" height="40"/>
+
+</div>
+
+#### Data Platforms & Tools
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/snowflake/29B5E8" title="Snowflake" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/databricks/FF3621" title="Databricks" width="40" height="40"/>&nbsp;
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" title="dbt" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Apache Spark" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="40" height="40"/>
+
+</div>
+
+#### Cloud & DevOps
+<div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="GCP" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+
+</div>
+
+#### BI & Visualization
+<div align="center">
+
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" width="40" height="40"/>&nbsp;
+<img src="https://cdn.brandfetch.io/idlcYXlhbB/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1667743633463" title="ThoughtSpot" width="40" height="40"/>
+
+</div>
+
+#### AI & Machine Learning
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" title="MLflow" height="40"/>&nbsp;
+<img src="https://www.kubeflow.org/images/logo.svg" title="Kubeflow" width="40" height="40"/>
+
+</div>
+
+---
+
+### 🎓 Education
+
+**M.Sc. Artificial Intelligence** | [Technische Hochschule Ingolstadt](https://www.thi.de/) | 2024 - 2026   
+**Pg Dip Big Data Analytics** | [Institute of Business Administration](https://www.iba.edu.pk/) | 2023 - 2024  
+**B.Sc. Computer Engineering** | [NED University of Engineering & Technology](https://www.neduet.edu.pk/) | 2016 - 2020
+
+---
+
+### 🏆 Certifications
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/Azure-Data_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 </div>
 
@@ -61,12 +134,13 @@ I’m **Faris Hussain**, a Data & AI Engineer based in Germany 🇩🇪
 
 ### 🚀 Core Expertise
 
-- 🏗️ Data Vault 2.0 Architecture  
-- 📈 Analytics Engineering  
-- ⚙️ CI/CD for Data Platforms  
-- ☁️ Cloud Data Engineering  
-- 🤖 AI-Ready Data Infrastructure  
-- 📊 Business Intelligence Enablement  
+- 🏗️ **Data Vault 2.0 Architecture** - Hub/Link/Satellite modeling for enterprise DWH
+- 📈 **Analytics Engineering** - dbt transformations, dimensional modeling & data quality
+- ⚙️ **DataOps & CI/CD** - Automated testing, deployment & monitoring pipelines
+- ☁️ **Cloud Data Platforms** - Snowflake, Databricks, AWS Redshift, Azure Synapse
+- 🔄 **ELT/ETL Orchestration** - Airflow, Fivetran, Matillion & custom Python pipelines
+- 🤖 **ML Data Infrastructure** - Feature stores, data versioning & model-ready datasets
+- 📊 **Business Intelligence** - Tableau, Power BI, ThoughtSpot dashboards & semantic layers
 
 ---
 
@@ -74,7 +148,11 @@ I’m **Faris Hussain**, a Data & AI Engineer based in Germany 🇩🇪
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farishussain&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=0e75b6&icon_color=0e75b6&text_color=ffffff)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farishussain&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farishussain&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=0e75b6&text_color=ffffff)
 
 </div>
 
