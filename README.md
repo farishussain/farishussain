@@ -10,9 +10,6 @@
     <a href="https://x.com/f2aitchain">
       <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
-    <a href="https://instagram.com/waymorefar_is">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=farishussain&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
