@@ -76,7 +76,7 @@ Currently pursuing my **Master's in Artificial Intelligence** while working on p
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=farishussain&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=farishussain&theme=dark&background=000000)](https://streak-stats.demolab.com?user=farishussain)
 
 </div>
 
